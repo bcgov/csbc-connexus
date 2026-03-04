@@ -1,3 +1,3 @@
-# nr-pmt-fabric
+# csbc-connexus
 
-The permitting workspace holds replicated data from permitting systems in the Natural Resource Sector. Data is split out into raw replicated data, transformed staged data, prepped analytics data and snapshots of historic data. It also manages the PIES ETL Module to replicate the raw data from Fabric to PEACH. 
+ConneXus is an org chart tool built by Connected Services BC that allows users to work with the org structure within the application, and export a PDF. MVP 1 is ingesting, validating, and visualizing an Excel spreadsheet with core organizational data.
